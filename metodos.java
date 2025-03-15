@@ -1,3 +1,7 @@
+// Integrantes: 
+//Emmanuel Rendon Goez
+//Julian Velasquez Garces
+
 import java.util.Scanner;
 
 public class metodos{

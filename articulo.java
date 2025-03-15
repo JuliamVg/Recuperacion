@@ -1,3 +1,6 @@
+// Integrantes: 
+//Emmanuel Rendon Goez
+//Julian Velasquez Garces
 public class articulo{
 
     String marca;
